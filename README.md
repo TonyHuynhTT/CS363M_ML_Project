@@ -1,7 +1,6 @@
-# CS439M_ML_Project
+# CS363M_ML_Project
 
 ### Headers
 ```
-numpy
 pandas
 ```
